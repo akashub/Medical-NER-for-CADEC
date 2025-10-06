@@ -28,7 +28,7 @@ My experience spans building production ML systems and conducting AI research:
 
 I'm passionate about applying NLP and LLMs to specialized domains - which is why this medical NER assignment for **Miimansa AI** was particularly exciting. Medical AI sits at the intersection of technical challenge and real-world impact, and I wanted to explore how modern LLMs handle the nuances of patient-generated medical text.
 
-**Connect with me**: [LinkedIn](https://linkedin.com/in/Aakash-Singh) | [GitHub](https://github.com/akashub) | aakashsinghas03@gmail.com
+**Connect with me**: [LinkedIn](https://www.linkedin.com/in/aakash-singh-aa4b84220/) | [GitHub](https://github.com/akashub) | aakashsinghas03@gmail.com
 
 ---
 
