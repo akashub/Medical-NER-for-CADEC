@@ -536,7 +536,7 @@ python medical_ner_llama.py
 **Aakash Singh**
 
 - 📧 Email: aakashsinghas03@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/Aakash-Singh](https://linkedin.com/in/Aakash-Singh)
+- 💼 LinkedIn: [linkedin.com/in/Aakash-Singh](https://www.linkedin.com/in/aakash-singh-aa4b84220/)
 - 🐙 GitHub: [github.com/akashub](https://github.com/akashub)
 - 📱 Phone: (+91) 9999505395
 
