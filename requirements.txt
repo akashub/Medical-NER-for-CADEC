@@ -1,0 +1,9 @@
+langgraph>=0.0.40
+langchain-google-genai>=1.0.0
+langchain-core>=0.1.0
+sentence-transformers>=2.2.0
+thefuzz[speedup]>=0.20.0
+pandas>=1.5.0
+scikit-learn>=1.0.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
