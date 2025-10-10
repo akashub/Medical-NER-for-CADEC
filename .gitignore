@@ -1,3 +1,4 @@
 venv/
 .env/
 CADEC.v2
+.env
